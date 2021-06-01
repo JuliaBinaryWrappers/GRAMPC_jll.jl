@@ -1,0 +1,106 @@
+[[GRAMPC]]
+arch = "aarch64"
+git-tree-sha1 = "0ede8299e43980e86e62b25d4abd2c719b21d41c"
+libc = "glibc"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "438079af4e28ce04205320158648be1da4edca111335193ad669b1848062c564"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.aarch64-linux-gnu.tar.gz"
+[[GRAMPC]]
+arch = "aarch64"
+git-tree-sha1 = "9650690b332bcc62e5d2bff68c4147f514ec0446"
+libc = "musl"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "d74de804944de7778641f424d410c58f662597d50cc1376217b5cc007402185b"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.aarch64-linux-musl.tar.gz"
+[[GRAMPC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2d8d3e3847675b95519196d19123bab91671b8c0"
+libc = "glibc"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "88c16af504dd0f90cbed9256a5778e53b48cba713b807def938ebb4ff57722b9"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[GRAMPC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c594a50f445a3839aeb701888ebc42672c527c7e"
+libc = "musl"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "2fc7eca65f29bc004e04d542cefb697e260de98677d7c98ef0bc3ae4bbed5f99"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.armv7l-linux-musleabihf.tar.gz"
+[[GRAMPC]]
+arch = "i686"
+git-tree-sha1 = "2f8b9bad110fc501f2aec030898a29ddfd5823b4"
+libc = "glibc"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "2623c01bff780e1b41ebe659dfb74610f08b0897b61d3d9a96f27feefc2a02c7"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.i686-linux-gnu.tar.gz"
+[[GRAMPC]]
+arch = "i686"
+git-tree-sha1 = "b9139dc97db527289265c1faf9eea3819526e29e"
+os = "windows"
+
+    [[GRAMPC.download]]
+    sha256 = "19e384663701aa0c4c2784f0c87d979a676942ef223f101b9005467473bafa70"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.i686-w64-mingw32.tar.gz"
+[[GRAMPC]]
+arch = "powerpc64le"
+git-tree-sha1 = "2b28a3a39620f4ff6697debffc2ad01a777b2c75"
+libc = "glibc"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "8fce9fabadbb7b9df8e0d0eff36055cbaf327290cb7f64b980eeb5c57ad3dfd6"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+[[GRAMPC]]
+arch = "x86_64"
+git-tree-sha1 = "83706352d82cb363613ebdae907773aa8078a9e2"
+os = "macos"
+
+    [[GRAMPC.download]]
+    sha256 = "d7aefc5993f2388755447f1e63217a3cbb2e409ac3b4dfe6e5bf505bbd3187a2"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.x86_64-apple-darwin.tar.gz"
+[[GRAMPC]]
+arch = "x86_64"
+git-tree-sha1 = "931a1b5dc7737d77b183d1ff4179415178c001d2"
+libc = "glibc"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "b41d5535a90b2a09bb94551a789220de0f147a393ed9d78e9a7f8b00debae0ac"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.x86_64-linux-gnu.tar.gz"
+[[GRAMPC]]
+arch = "x86_64"
+git-tree-sha1 = "713bb8ae5fdd33664d4b054bce84dfd859ecd18b"
+libc = "musl"
+os = "linux"
+
+    [[GRAMPC.download]]
+    sha256 = "1c1387bb96ff7fae939defae0544ae24cbf86792e788d0bf121de89eb0aba358"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.x86_64-linux-musl.tar.gz"
+[[GRAMPC]]
+arch = "x86_64"
+git-tree-sha1 = "ff2fb7486043a873ba272e645d8b2b145a48c079"
+os = "freebsd"
+
+    [[GRAMPC.download]]
+    sha256 = "7a5ea032fce02d959c8d0fbb74fbfeb23e799be92be24ce2a7db480edc7f1866"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.x86_64-unknown-freebsd.tar.gz"
+[[GRAMPC]]
+arch = "x86_64"
+git-tree-sha1 = "10edb0c7d9becbec6453fd1b3cceb66adbb21f61"
+os = "windows"
+
+    [[GRAMPC.download]]
+    sha256 = "946c864567708ba093ef816201693f6dd3dffc93cdfde14355835efba3303097"
+    url = "https://github.com/JuliaBinaryWrappers/GRAMPC_jll.jl/releases/download/GRAMPC-v2.2.0+0/GRAMPC.v2.2.0.x86_64-w64-mingw32.tar.gz"
